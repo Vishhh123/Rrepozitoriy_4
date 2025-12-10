@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f64f6b24-2577-42f5-91fd-55acea18d110" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Задания/zadanie_2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Задания/zadanie_3.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Задания/zadanie_2.py" afterPath="$PROJECT_DIR$/Задания/zadanie_2.py" />
     </list>
     <ignored path="Rrepozitoriy_4.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,11 +34,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="zadanie_2.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="zadanie_2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Задания/zadanie_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1025">
-              <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+            <state relative-caret-position="746">
+              <caret line="30" column="47" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zadanie_3.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Задания/zadanie_3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="700">
+              <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -69,6 +81,7 @@
         <option value="$PROJECT_DIR$/Примеры/primer_6.py" />
         <option value="$PROJECT_DIR$/Задания/zadanie_1.py" />
         <option value="$PROJECT_DIR$/Задания/zadanie_2.py" />
+        <option value="$PROJECT_DIR$/Задания/zadanie_3.py" />
       </list>
     </option>
   </component>
@@ -131,20 +144,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Примеры" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Rrepozitoriy_4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Rrepozitoriy_4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="Задания" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -164,24 +163,7 @@
       <recent name="C:\Users\user\Rrepozitoriy_4" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.zadanie_2">
-    <configuration default="false" name="primer_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Примеры" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Rrepozitoriy_4" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Примеры/primer_4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.zadanie_3">
     <configuration default="false" name="primer_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -246,6 +228,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Rrepozitoriy_4" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Задания/zadanie_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="zadanie_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Задания" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Rrepozitoriy_4" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Задания/zadanie_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -385,19 +384,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.primer_4" />
-      <item index="1" class="java.lang.String" itemvalue="Python.primer_5" />
-      <item index="2" class="java.lang.String" itemvalue="Python.primer_6" />
-      <item index="3" class="java.lang.String" itemvalue="Python.zadanie_1" />
-      <item index="4" class="java.lang.String" itemvalue="Python.zadanie_2" />
+      <item index="0" class="java.lang.String" itemvalue="Python.primer_5" />
+      <item index="1" class="java.lang.String" itemvalue="Python.primer_6" />
+      <item index="2" class="java.lang.String" itemvalue="Python.zadanie_1" />
+      <item index="3" class="java.lang.String" itemvalue="Python.zadanie_2" />
+      <item index="4" class="java.lang.String" itemvalue="Python.zadanie_3" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.zadanie_2" />
-        <item index="1" class="java.lang.String" itemvalue="Python.zadanie_1" />
-        <item index="2" class="java.lang.String" itemvalue="Python.primer_6" />
-        <item index="3" class="java.lang.String" itemvalue="Python.primer_5" />
-        <item index="4" class="java.lang.String" itemvalue="Python.primer_4" />
+        <item index="0" class="java.lang.String" itemvalue="Python.zadanie_3" />
+        <item index="1" class="java.lang.String" itemvalue="Python.zadanie_2" />
+        <item index="2" class="java.lang.String" itemvalue="Python.zadanie_1" />
+        <item index="3" class="java.lang.String" itemvalue="Python.primer_6" />
+        <item index="4" class="java.lang.String" itemvalue="Python.primer_5" />
       </list>
     </recent_temporary>
   </component>
@@ -433,8 +432,8 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968882" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968882" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15979815" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40874684" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.249901" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968882" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -604,8 +603,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Задания/zadanie_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1025">
-          <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+        <state relative-caret-position="746">
+          <caret line="30" column="47" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Задания/zadanie_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
           <folding />
         </state>
       </provider>
